@@ -1,5 +1,5 @@
-# FileIo
-* FileIo Plus QML plugin
+# FileIo Plus QML plugin
+* 无需执行额外操作
 * 无需在main.cpp中注册
 * file io增强版
 ## 使用方法
