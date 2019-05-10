@@ -1,8 +1,8 @@
 # FileIo
-FileIo Plus QML plugin
-无需在main.cpp中注册
-##file io增强版
-##使用方法
+* FileIo Plus QML plugin
+* 无需在main.cpp中注册
+* file io增强版
+## 使用方法
 ```
 #INCLUDEPATH += "$$PWD\include"
 #LIBS += "$$PWD\lib\FileIo.lib"
@@ -24,4 +24,4 @@ FileIO{
     }
 ```
 
-##dll路径必须存放在   $$PWD\plugins\FileIo\FileIo.dll
+## dll路径必须存放在   $$PWD\plugins\FileIo\FileIo.dll
