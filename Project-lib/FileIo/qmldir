@@ -1,0 +1,5 @@
+module plugins.FileIo
+plugin FileIo
+
+classname FileioPlugin
+
